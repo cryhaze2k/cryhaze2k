@@ -1,24 +1,23 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc0aGt0d3BqMHV0aHVsYTZob2cyMm5ka2E3eGgycnUzODV3enYyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Hi, I'm [Your Name]">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc0aGt0d3BqMHV0aHVsYTZob2cyMm5ka2E3eGgycnUzODV3enYyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Hi, I'm cryhaze2k>
 </p>
 
-<h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
-<h3 align="center">I'm a [Your Specialization] who loves [Your Hobby] and turning ideas into code.</h3>
+<h1 align="center">Hi there, I'm cryhaze2k! 👋</h1>
+<h3 align="center">I'm a coder who loves breakcore and turning ideas into code.</h3>
 
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cryhaze2k&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ### 👨‍💻 About Me:
 
-* 🚀 I'm currently working on **[Project Name]**.
-* 🧠 I'm currently learning **[Technology You Are Learning]**.
-* 🤝 I'm looking to collaborate on **[Another Project Name, if any]**.
-* 💬 Ask me about **[A Topic You're Knowledgeable In]**.
-* 📫 How to reach me: **[your_email@example.com]**
-* ⚡ Fun fact: **[An Interesting Fact About You]**.
+* 🚀 I'm currently working on **CinemaTelegramBot**.
+* 🧠 I'm currently learning **Python**.
+* 🤝 I'm looking to collaborate in **GameDev**.
+* 📫 How to reach me: **[cryhaze2k@gmail.com]**
+* ⚡ Fun fact: **Я въезжаю в стройку**.
 
 ---
 
