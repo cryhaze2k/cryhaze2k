@@ -27,15 +27,15 @@ Here you can list the technologies you work with. Use icons to make the list mor
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,svelte" />
+    <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,go,java,php,ruby" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,c,c++,c#" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,git" />
   </a>
 </p>
 
