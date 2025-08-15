@@ -31,7 +31,7 @@ Here you can list the technologies you work with. Use icons to make the list mor
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,c,cs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,c,c++,cs" />
   </a>
   <br>
   <a href="https://skillicons.dev">
@@ -69,5 +69,5 @@ These cards are generated automatically and show your activity.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gist/sebastiansandqvist/c6f555d7759a527c8afa3c2c77d4c2b2/raw/e93233a76986c75771b3e8c1878f8d68f2b7f24d/bottom.svg" width="100%">
+  
 </p>
