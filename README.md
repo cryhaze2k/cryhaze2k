@@ -31,7 +31,7 @@ Here you can list the technologies you work with. Use icons to make the list mor
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,c,c++,cs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,c,cpp,cs" />
   </a>
   <br>
   <a href="https://skillicons.dev">
