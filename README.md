@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc0aGt0d3BqMHV0aHVsYTZob2cyMm5ka2E3eGgycnUzODV3enYyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" 
-    alt="Hi, I'm cryhaze2k>
+    alt="/nHi, I'm cryhaze2k>
 </p>
 
 <h1 align="center">Hi there, I'm cryhaze2k! 👋</h1>
