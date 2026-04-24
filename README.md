@@ -16,7 +16,7 @@
 * 🚀 I'm currently working on **CinemaTelegramBot**.
 * 🧠 I'm currently learning **Python**.
 * 🤝 I'm looking to collaborate in **GameDev**.
-* 📫 How to reach me: **[cryhaze2k@gmail.com]**
+* 📫 How to reach me: ****
 * ⚡ Fun fact: **Я въезжаю в стройку**.
 
 ---
